@@ -6,7 +6,7 @@ If you struggle you can always display console and see the output.
 
 Live link to solution:
 
-[https://webski-dev.github.io/JavaScript-Challenge-1-Functions] (CLICK!)
+https://webski-dev.github.io/JavaScript-Challenge-1-Functions
 
 
 ## CHALLENGE
