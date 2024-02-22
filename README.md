@@ -1,4 +1,4 @@
-# JAVASCRIPT CHALLENGE #1 - FUNCTIONS
+# JAVASCRIPT CHALLENGE #1 - FUNCTIONS 
 
 I will be posting some JS challenges on various levels. Feel free to take a part and write solution code. 
 
